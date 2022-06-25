@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="httpgd" width="833.00" height="317.00" viewBox="0 0 833.00 317.00">
+<defs>
+  <style type='text/css'><![CDATA[
+    .httpgd line, .httpgd polyline, .httpgd polygon, .httpgd path, .httpgd rect, .httpgd circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+<clipPath id="c0"><rect x="0.00" y="0.00" width="833.00" height="317.00"/></clipPath>
+</defs>
+<rect width="100%" height="100%" style="stroke: none;fill: #FFFFFF;"/>
+<g clip-path="url(#c0)">
+<rect x="66.40" y="199.58" width="386.95" height="37.14" style="stroke-width: 0.75;stroke: none;fill: #FF0000;"/>
+<rect x="66.40" y="155.01" width="531.33" height="37.14" style="stroke-width: 0.75;stroke: none;fill: #0000FF;"/>
+<rect x="66.40" y="110.44" width="635.29" height="37.14" style="stroke-width: 0.75;stroke: none;fill: #00FF00;"/>
+<rect x="66.40" y="65.87" width="736.36" height="37.14" style="stroke-width: 0.75;stroke: none;fill: #BEBEBE;"/>
+<g><text transform="translate(41.76,218.16) rotate(-90.00)" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="33.03px" lengthAdjust="spacingAndGlyphs">South</text></g>
+<g><text transform="translate(41.76,129.01) rotate(-90.00)" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="23.49px" lengthAdjust="spacingAndGlyphs">East</text></g>
+<g><text transform="translate(41.76,84.44) rotate(-90.00)" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="28.01px" lengthAdjust="spacingAndGlyphs">West</text></g>
+<g><text x="430.90" y="26.02" text-anchor="middle" style="font-family: Liberation Sans;font-size: 14.40px;" textLength="35.79px" lengthAdjust="spacingAndGlyphs">Freq </text></g>
+<g><text x="430.90" y="43.30" text-anchor="middle" style="font-family: Liberation Sans;font-size: 14.40px;" textLength="68.08px" lengthAdjust="spacingAndGlyphs">of Region</text></g>
+<g><text x="430.90" y="283.88" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="49.99px" lengthAdjust="spacingAndGlyphs">Number </text></g>
+<g><text x="430.90" y="298.28" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="73.74px" lengthAdjust="spacingAndGlyphs">of customers</text></g>
+<line x1="66.40" y1="243.56" x2="788.32" y2="243.56" style="stroke-width: 0.75;"/>
+<line x1="66.40" y1="243.56" x2="66.40" y2="250.76" style="stroke-width: 0.75;"/>
+<line x1="210.79" y1="243.56" x2="210.79" y2="250.76" style="stroke-width: 0.75;"/>
+<line x1="355.17" y1="243.56" x2="355.17" y2="250.76" style="stroke-width: 0.75;"/>
+<line x1="499.55" y1="243.56" x2="499.55" y2="250.76" style="stroke-width: 0.75;"/>
+<line x1="643.94" y1="243.56" x2="643.94" y2="250.76" style="stroke-width: 0.75;"/>
+<line x1="788.32" y1="243.56" x2="788.32" y2="250.76" style="stroke-width: 0.75;"/>
+<g><text x="66.40" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="6.86px" lengthAdjust="spacingAndGlyphs">0</text></g>
+<g><text x="210.79" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="13.72px" lengthAdjust="spacingAndGlyphs">50</text></g>
+<g><text x="355.17" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="20.58px" lengthAdjust="spacingAndGlyphs">100</text></g>
+<g><text x="499.55" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="20.58px" lengthAdjust="spacingAndGlyphs">150</text></g>
+<g><text x="643.94" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="20.58px" lengthAdjust="spacingAndGlyphs">200</text></g>
+<g><text x="788.32" y="269.48" text-anchor="middle" style="font-family: Liberation Sans;font-size: 12.00px;" textLength="20.58px" lengthAdjust="spacingAndGlyphs">250</text></g>
+</g>
+</svg>
